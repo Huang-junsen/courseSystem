@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### 启动 js-server
+```
+json-server --watch --port 3003 --host 127.0.0.1 db.json
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
